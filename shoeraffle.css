@@ -15,12 +15,12 @@ header{
 }
 
 .shoe-logo{
-    width: 951px;
-    height: 951px;
+    width: 451px;
+    height: 451px;
     padding: 5x;
 }
 .main-container{
-    max-width: 7700px;
+    max-width: 600px;
     padding: 10px;
 }
 
